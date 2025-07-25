@@ -37,7 +37,7 @@ export default function CollegeCard({ data }) {
       <p>Events: {data.events}</p>
       <p>Research: {data.research}</p>
       <p>Sports: {data.sports}</p>
-      <Link href={`/college/${data.id}`}>
+      <Link href="https://www.northsouth.edu/#">
         <button className="mt-2 bg-blue-500 text-white px-4 py-2 rounded">
           Details
         </button>

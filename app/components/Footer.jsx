@@ -190,7 +190,7 @@ const UniversityFooter = () => {
                 />
               </div> */}
               <div className="ml-3">
-                <h2 className="text-xl font-bold">PRESTIGE UNIVERSITY</h2>
+                <h2 className="text-xl font-bold">AIUB UNIVERSITY</h2>
                 <p className="text-[#FFD700] text-sm">
                   Excellence in Education
                 </p>
@@ -395,7 +395,7 @@ const UniversityFooter = () => {
         {/* Copyright Section */}
         <div className="border-t border-gray-700 mt-12 pt-8 text-sm flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Prestige University. All rights
+            &copy; {new Date().getFullYear()} AIUB University. All rights
             reserved.
             <span className="mx-2">|</span>
             <Link href="/privacy" className="hover:text-[#FFD700]">
