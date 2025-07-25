@@ -1,5 +1,3 @@
-<img src="https://www.google.com/imgres?q=aiub&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064507879998&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Faiub.edu%2F&docid=1DhIFWrkJePSKM&tbnid=Q5bQfc26fccilM&vet=12ahUKEwi24JzNqNaOAxWg1jgGHdbeA68QM3oECAwQAA..i&w=960&h=960&hcb=2&ved=2ahUKEwi24JzNqNaOAxWg1jgGHdbeA68QM3oECAwQAA" alt="Logo" width="80" height="80" />
-
 # Collage Website
 
 ## Live Link
